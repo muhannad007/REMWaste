@@ -1,5 +1,4 @@
 {
-  "proxy": "https://clicks.aweber.com/",
   "name": "rem",
   "version": "0.1.0",
   "private": true,
