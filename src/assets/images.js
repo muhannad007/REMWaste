@@ -1,0 +1,10 @@
+export const four = require("./images/4-yarder-skip.jpg");
+// export const five = require("./images/5-yarder-skip.jpg");
+export const six = require("./images/6-yarder-skip.jpg");
+export const eight = require("./images/8-yarder-skip.jpg");
+export const ten = require("./images/10-yarder-skip.jpg");
+export const twelve = require("./images/12-yarder-skip.jpg");
+export const fourteen = require("./images/14-yarder-skip.jpg");
+export const sixteen = require("./images/16-yarder-skip.jpg");
+export const twenty = require("./images/20-yarder-skip.jpg");
+export const fourty = require("./images/40-yarder-skip.jpg");
