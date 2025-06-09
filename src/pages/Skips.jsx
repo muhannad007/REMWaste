@@ -60,7 +60,7 @@ const Skips = () => {
       const getData = async () => {
         try {
           const res = await axios.get(
-            "https://clicks.aweber.com/y/ct/?l=TsD0Kn&m=8kKiA5Xs4lyuOBlr&b=LN4zdPOCY2wffjE5vH.B0w"
+            "/api/y/ct/?l=TsD0Kn&m=8kKiA5Xs4lyuOBlr&b=LN4zdPOCY2wffjE5vH.B0w"
           );
           const result = await res.data;
 
