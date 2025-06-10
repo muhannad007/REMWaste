@@ -1,6 +1,4 @@
-// import { useState } from "react";
 const Cart = ({ item, image }) => {
-  // const [color, setColor] = useState("");
   return (
     <div className="cart">
       <img src={image} alt="skip" />
